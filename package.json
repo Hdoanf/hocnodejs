@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "hocnodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hdoanf/hocnodejs.git"
+  },
+  "keywords": [
+    "Hoc_Node_js"
+  ],
+  "author": "Hdoanf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hdoanf/hocnodejs/issues"
+  },
+  "homepage": "https://github.com/Hdoanf/hocnodejs#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
